@@ -1,0 +1,16 @@
+.bulb-image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.action-button
+{   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    color:bisque;
+    background-color:green;
+
+}
